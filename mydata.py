@@ -1,4 +1,5 @@
 def sum(*num):
+    
     sum = 0; 
     for i in num:
         sum = sum + i 
